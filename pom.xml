@@ -8,7 +8,7 @@
     <artifactId>jadhav</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>harsh100 Maven Webapp</name>
+    <name>harsh1000 Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
 
@@ -43,7 +43,7 @@
                 <configuration>
                     <url>http://localhost:9999/manager/text</url>
                     <server>TomcatServer</server>
-                    <path>/harsh100</path>
+                    <path>/harsh1000</path>
                 </configuration>
             </plugin>
         </plugins>
