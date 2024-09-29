@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jadhav</groupId>
-    <artifactId>jadhav</artifactId>
+    <groupId>com.harsh100</groupId>
+    <artifactId>harsh100</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>harsh1000 Maven Webapp</name>
+    <name>harsh100 Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
 
@@ -43,7 +43,7 @@
                 <configuration>
                     <url>http://localhost:9999/manager/text</url>
                     <server>TomcatServer</server>
-                    <path>/harsh1000</path>
+                    <path>/harsh100</path>
                 </configuration>
             </plugin>
         </plugins>
